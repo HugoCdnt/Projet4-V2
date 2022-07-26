@@ -1079,7 +1079,7 @@ p{
     color: black!important;
 }
 
-#bloc-1-hero h1, #bloc-5-cta h2{
+#bloc-1-hero h1{
     color: white;
 }
 
@@ -1152,6 +1152,8 @@ a:not(header a, .bold-link){
     outline: .2rem solid black;
 }
 
-.test{
-    background-color: yellow!important;
+.dark-background {
+     background-color: rgba(105, 101, 88, .01);
+     width: 450px;
+     margin: auto;
 }
